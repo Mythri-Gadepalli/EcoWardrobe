@@ -1,0 +1,613 @@
+|   ID | Manufacturer_Name                          | City        | State           |
+|------|-------------------------------------------|-------------|-----------------|
+|    1 | Snitch Apparels Pvt. Ltd.                | Bengaluru   | Karnataka       |
+|    2 | Powerlook                                 | Mumbai      | Maharashtra     |
+|    3 | KTT Exports                               | Tirupur     | Tamil Nadu      |
+|    4 | GARG ACRYLICS                             | Sahnewal    | Punjab          |
+|    5 | Lifestyle International Private Limited   | Bengaluru   | Karnataka       |
+|    6 | Brand Studio Lifestyle Pvt Ltd            | Bangalore   | Karnataka       |
+|    7 | ACTIVE CLOTHING CO LIMITED              | Badali Ala Singh | Punjab          |
+|    8 | Garg acrylic ltd                          | Ludhiana    | Punjab          |
+|    9 | GARG ACRYLIC LIMITED                      | Sahnewal    | Punjab          |
+|   10 | BANANA CLUB CLOTHING PRIVATE LIMITED     | Bengaluru   | Karnataka       |
+|   11 | Thomas Scott (India) Ltd                  | Mumbai      | Maharashtra     |
+|   12 | BLING BRANDS PRIVATE LIMITED              | Bangalore   | Karnataka       |
+|   13 | ROYAL CLASSIC MILLS P LTD                 | Sulur       | Tamil Nadu      |
+|   14 | KAPOOR COTSYN EXPORTS                     | Ludhiana    | Punjab          |
+|   15 | SRI LAKSHMI CLOTHINGS                     | Tirupur     | Tamil Nadu      |
+|   16 | OUTDRIP                                   | NEW DELHI   | Delhi           |
+|   17 | Thimblerr Commerce And Technology Private Limited | Gurgaon     | Haryana         |
+|   18 | AMRIT IMPEX PRIVATE LIMITED               | Kolkata     | West Bengal     |
+|   19 | RADHAMANI TEXTILES PVT. LTD.              | Bengaluru   | Karnataka       |
+|   20 | Frost Clothings                           | Noida       | Uttar Pradesh   |
+|   21 | H & M Hennes & Mauritz Retail Private Limited | Thane       | Maharashtra     |
+|   22 | PRATYAYA E-commerce Private Limited       | Hyderabad   | Telangana       |
+|   23 | Bewakoof Brands Pvt Ltd                   | Bhiwandi    | Maharashtra     |
+|   24 | Euro Clothing Company                     | Bangalore   | Karnataka       |
+|   25 | Silver moon clothing                      | Bandipora   | Jammu and Kashmir |
+|   26 | Stylofy                                   | BANGALORE   | Karnataka       |
+|   27 | Sri Balaji Texknit Clothing Co            | Tirupur     | Tamil Nadu      |
+|   28 | Alan Jones Clothing                       | Valsad      | Gujarat         |
+|   29 | SWASTIK TEXHUB INDIA LLP                  | Hyderabad   | Telangana       |
+|   30 | Jaiyam Industries LLP                     | Panchkula  | Haryana         |
+|   31 | Adidas India Marketing Private Ltd.       | New Delhi   | Delhi           |
+|   32 | kapoor cotsyn exports                     | ludhiana    | Punjab          |
+|   33 | Brandstudio Lifestyle                     | Bangalore   | Karnataka       |
+|   34 | Prateek Apparels Pvt Ltd                  | Kudlu       | Karnataka       |
+|   35 | GUS Clothing Pvt. Ltd.                    | Tiruppur    | Tamil Nadu      |
+|   36 | Gala                                      | Bhiwandi    | Maharashtra     |
+|   37 | MADHAV IMPEX INDIA                        | LONI        | Uttar Pradesh   |
+|   38 | INTERNATIONAL TRADING COMPANY             | Tiruppur    | Tamil Nadu      |
+|   39 | Monte Carlo Fashions Limited              | Ludhiana    | Punjab          |
+|   40 | Brand Studio Lifestyle Pvt Ltd            | Bangalore   | Karnataka       |
+|   41 | LAXMI TRADERS                             | DELHI       | Delhi           |
+|   42 | PALTA HOSIERY FACTORY                     | LUDHIANA    | Punjab          |
+|   43 | Rasham Knitwears                          | LUDHIANA    | Punjab          |
+|   44 | PDS MULTINATIONAL FASHIONS LIMITED        | Kolkata     | West Bengal     |
+|   45 | Jay Kay Knitwears                         | Ludhiana    | Punjab          |
+|   46 | Duke Fashions India Limited               | Ludhiana    | Punjab          |
+|   47 | Campus Sutra Retail private limited       | Bengaluru   | Karnataka       |
+|   48 | Fugazee Lifestyle LLP                     | Gurugram    | Haryana         |
+|   49 | Madhav Impex India                        | Loni        | Uttar Pradesh   |
+|   50 | Jay Kay knitwears                         | Ludhiana    | Punjab          |
+|   51 | Black Buck Fashion Pvt Ltd                | Ludhiana    | Punjab          |
+|   52 | S.R ENTERPRISES                           | Ludhiana    | Punjab          |
+|   53 | EASTEND EXPORTS                           | Ludhiana    | Punjab          |
+|   54 | Showoff                                   | Bangalore   | Karnataka       |
+|   55 | Culture clothing pvt ltd                  | Noida       | Uttar Pradesh   |
+|   56 | Numero Uno CLOTHING LTD.                  | Gurgaon     | Haryana         |
+|   57 | Rover techno solution                     | delhi       | Delhi           |
+|   58 | WINSOME KNITWEAR                          | MOHALI      | PUNJAB          |
+|   59 | Decathlon Sports India                    | Bengaluru   | Karnataka       |
+|   60 | MAITRI KNITWEAR                           | Ludhiana    | Punjab          |
+|   61 | MYTIA EXPORTS PRIVATE LIMITED             | Ludhiana    | Punjab          |
+|   62 | KAALI PEELI ETAIL PRIVATE LIMITED         | Bengaluru   | Karnataka       |
+|   63 | P AND G Enterprises Pvt. Ltd.             | Okhla       | Delhi           |
+|   64 | Since99 Apparel Private Limited           | Bhiwandi    | Maharashtra     |
+|   65 | GOUTAM TRADING CO.                        | LUDHIANA    | Punjab          |
+|   66 | Metawear Limited                          | Mumbai      | Maharashtra     |
+|   67 | Preferred Trade                           | Chennai     | Tamil Nadu      |
+|   68 | Jain Hitex Creation Pvt Ltd               | Ahmedabad   | Gujarat         |
+|   69 | adidas India Marketing (P) Ltd            | New Delhi   | Delhi           |
+|   70 | HRIDI INTERNATIONAL LIMITED               | HONG KONG   | HONG KONG       |
+|   71 | MAITRI KNITWEAR                           | LUDHIANA    | PUNJAB          |
+|   72 | Triangle Apparels 6                       | Bangalore   | Karnataka       |
+|   73 | INZEX TEXTILE PRIVATE LIMITED             | Noida       | Uttar Pradesh   |
+|   74 | Triangle Apparels 6                       | Bangalore   | Karnataka       |
+|   75 | GURKIRPA LIFESTYLE COMPANY                | Faridabad   | Haryana         |
+|   76 | BEAR HOUSE CLOTHING PVT LTD               | Bengaluru   | Karnataka       |
+|   77 | VOXATI                                    | Bengaluru   | Karnataka       |
+|   78 | NK ENTERPRISES                            | New Delhi   | Delhi           |
+|   79 | Arvind Lifestyle Brands Ltd.              | Bengaluru   | Karnataka       |
+|   80 | A.R.ENTERPRISES                           | New Delhi   | Delhi           |
+|   81 | Reset Collection                          | GHAZIABAD   | Uttar Pradesh   |
+|   82 | STAR TRADING COMPANY                      | Delhi       | Delhi           |
+|   83 | V-Mart Retail Ltd                         | Gurugram    | Haryana         |
+|   84 | LORENZINI APPARELS LIMITED                | NEW DELHI   | Delhi           |
+|   85 | RADHAMANI TEXTILES PVT. LTD.              | Bengaluru   | Karnataka       |
+|   86 | bgn apparels                             | gurgaon     | Haryana         |
+|   87 | INDIAN CONNECTION                         | NEWDELHI    | DELHI           |
+|   88 | Vastramay Pvt. Ltd.                       | Kolkata     | West Bengal     |
+|   89 | VASTRAMAY PRIVATE LIMITED                 | kolkata     | West Bengal     |
+|   90 | INDIAN CONNECTION                         | Delhi       | Delhi           |
+|   91 | BG. ENTERPRISES                           | Ludhiana    | Punjab          |
+|   92 | ARVIND LIMITED                            | Bengaluru   | Karnataka       |
+|   93 | Shree Logistic Services                   | Saharanpur  | Uttar Pradesh   |
+|   94 | Arvind Limited                            | Kalol       | Gujarat         |
+|   95 | -                                         | Undefined   | -               |
+|   96 | Dennison India                            | Gwalior     | Madhya Pradesh  |
+|   97 | MR BUTTON PVT LTD                         | NEW DELHI   | Delhi           |
+|   98 | Tahvo Designs & Productions              | Gurgaon     | Haryana         |
+|   99 | Vastramay                                 | Kolkata     | West Bengal     |
+|  100 | ANIRUDH ENTERPRISES                       | Delhi       | Delhi           |
+|  101 | Rudraksh Apparel Pvt Ltd                  | New Delhi   | Delhi           |
+|  102 | TURTLE LIMITED                            | Howrah      | West Bengal     |
+|  103 | Katela Creation                           | Jaipur      | Rajasthan       |
+|  104 | Shree Vidyasagar Apparels Pvt Ltd         | Mumbai      | Maharashtra     |
+|  105 | SILVER SPARK APPAREL                      | BANGALORE   | Karnataka       |
+|  106 | UNITED EXIM PRIVATE LIMITED               | Noida       | Uttar Pradesh   |
+|  107 | TAHVO DESIGNS AND PRODUCTIONS PVT. LTD.   | GURGAON     | Haryana         |
+|  108 | NZ Seasonalwear PVT LTD.                  | Bhiwandi    | Maharashtra     |
+|  109 | NZ SEASONALWEAR PVT LTD.                  | Bhiwandi    | Maharashtra     |
+|  110 | Sam Apparels                              | Bangalore   | Karnataka       |
+|  111 | Green Apple Venture LLP                   | Bhiwandi    | Maharashtra     |
+|  112 | Garg Store                                | Delhi       | Delhi           |
+|  113 | Reoutlook                                 | Ahemdabad   | Gujarat         |
+|  114 | Sri Shankheshwara Novalty                 | Chennai     | Tamil Nadu      |
+|  115 | Merhaki Food & NutritionGlobalBees Brands Pvt. Ltd. | Bangalore   | Karnataka       |
+|  116 | Green Apple Venture LLP                   | Bhiwandi    | Maharashtra     |
+|  117 | THE CLOWNFISH                             | Bhiwandi    | Maharashtra     |
+|  118 | Shri Hari Om Industries                   | Ludhiana    | Punjab          |
+|  119 | NZ SEASONALWEAR PVT LTD.                  | Bhiwandi    | Maharashtra     |
+|  120 | CAMISON                                   | Rewa        | Madhya Pradesh  |
+|  121 | Wildcraft India Limited                   | Bangalore   | Karnataka       |
+|  122 | Knya Enterprise Pvt. Ltd.                 | Mumbai      | Maharashtra     |
+|  123 | Aditya Birla Fashion and Retail           | Bangalore   | Karnataka       |
+|  124 | Mehta E-Retail India                      | New Delhi   | Delhi           |
+|  125 | TAHVO DESIGNS AND PRODUCTIONS PVT.LTD.   | GURGAON     | Haryana         |
+|  126 | UNITED EXIM PVT LTD                       | NOIDA       | Uttar Pradesh   |
+|  127 | BGN Apparels                              | Gurgaon     | Haryana         |
+|  128 | TAHVO DESIGNS AND PRODUCTIONS PVT LTD     | Gurgaon     | Haryana         |
+|  129 | KRISHNA LABELS PVT. LTD.                  | GURUGRAM    | Haryana         |
+|  130 | KRISHNA LABELS PVT. LTD.                  | GURGAON     | Haryana         |
+|  131 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  132 | KRISHNA LABELS PVT. LTD.                  | GURGAON     | Haryana         |
+|  133 | SHREE HARI FASHION                        | GURGAON     | Haryana         |
+|  134 | Krishna Labels Pvt. Ltd.                  | Gurugram    | Haryana         |
+|  135 | Vijit Retail Private Limited              | Gurugram    | Haryana         |
+|  136 | -                                         | KOLKATA     | West Bengal     |
+|  137 | Indian Needle Private Limited             | Delhi       | Delhi           |
+|  138 | Indian Needle Pvt. Ltd.                   | Delhi       | Delhi           |
+|  139 | KAAJ STUDIO LLP                           | Surat       | Gujarat         |
+|  140 | Indian Needle Pvt. Ltd.                   | Delhi       | Delhi           |
+|  141 | Indian Needle Pvt. Ltd.                   | Delhi       | Delhi           |
+|  142 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  143 | Vastramay Pvt. Ltd.                       | Kolkata     | West Bengal     |
+|  144 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  145 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  146 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  147 | Vastramay Pvt. Ltd.                       | Kolkata     | West Bengal     |
+|  148 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  149 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  150 | Indian Needle Private Limited             | Delhi       | Delhi           |
+|  151 | Indian Needle Pvt. Ltd.                   | Delhi       | Delhi           |
+|  152 | Vastramay Pvt. Ltd.                       | Kolkata     | West Bengal     |
+|  153 | Vastramay Pvt. Ltd.                       | Kolkata     | West Bengal     |
+|  154 | Indian Needle Private Limited             | Delhi       | Delhi           |
+|  155 | See Designs                               | Noida       | Uttar Pradesh   |
+|  156 | Indian Needle Pvt. Ltd.                   | Delhi       | Delhi           |
+|  157 | SUNSHINE INTERNATIONAL                    | Surat       | Gujarat         |
+|  158 | Indian Needle Pvt ltd                     | delhi       | Delhi           |
+|  159 | Mokksha Designs                           | Ambattur    | Tamil Nadu      |
+|  160 | shagun enterprises                        | Panipat     | Haryana         |
+|  161 | SIXTH SENSE - SJIT                       | KARNATAKA   | Karnataka       |
+|  162 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  163 | See Designs Lifestyle Private Limited      | Noida       | Uttar Pradesh   |
+|  164 | Shri Ram Enterprises                      | Delhi       | Delhi           |
+|  165 | MAAHII FABRICS PRIVATE LIMITED            | Kolkata     | West Bengal     |
+|  166 | Sunshine International                    | SURAT       | Gujarat         |
+|  167 | Well Tex                                  | SURAT       | Gujarat         |
+|  168 | Syonn Fashion                             | Kolkata     | West Bengal     |
+|  169 | Sanwara Fashions                          | KOL         | West Bengal     |
+|  170 | Mokksha Designs                           | Ambattur    | Tamil Nadu      |
+|  171 | Mangla Apparels India Private Limited     | Sonipat     | Haryana         |
+|  172 | ASOPALAV CREATIONS PVT LTD                | Surat       | Gujarat         |
+|  173 | Omnipresent Lifestyle L.L.P              | Surat       | Gujarat         |
+|  174 | Lifestyle Int Pvt Ltd                     | Bangalore   | Karnataka       |
+|  175 | SUNSHINE LIFESTYLE                        | SURAT       | Gujarat         |
+|  176 | Vastramay Pvt. Ltd.                       | Kolkata     | West Bengal     |
+|  177 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  178 | Indian Needle Pvt. Ltd.                   | Delhi       | Delhi           |
+|  179 | Indian Needle Private Limited             | Delhi       | Delhi           |
+|  180 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  181 | Indian Needle Pvt ltd                     | Delhi       | Delhi           |
+|  182 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  183 | Indian Needle Pvt ltd                     | Delhi       | Delhi           |
+|  184 | Vastramay Pvt. Ltd.                       | Kolkata     | West Bengal     |
+|  185 | Kisah Apparels Private Limited            | Kolkata     | West Bengal     |
+|  186 | One Million Clothing                      | Mumbai      | Maharashtra     |
+|  187 | Jk Clothing Pvt. Ltd                     | Mumbai      | Maharashtra     |
+|  188 | ADITYA GLOBAL INC                         | Delhi       | Delhi           |
+|  189 | Cot'N Soft Fashion & Retail               | Faridabad   | Haryana         |
+|  190 | United Textile Mills Pvt Ltd               | Mumbai       | Maharashtra     |
+|  191 | CHANEL FOR FASHION PRIVATE LIMITED         | Jaipur       | Rajasthan       |
+|  192 | United Textile Mills Pvt Ltd               | Mumbai       | Maharashtra     |
+|  193 | Sixth Sense                               | Bangalore    | Karnataka       |
+|  194 | United Textile Mills Pvt Ltd               | Mumbai       | Maharashtra     |
+|  195 | BATRA COLONYJ K BAL VIDHYA MANDIR         | Panipat      | Haryana         |
+|  196 | AMZIRA                                    | Surat        | Gujarat         |
+|  197 | bindal inc.                               | Gurgaon      | Haryana         |
+|  198 | BGN APPARELS                              | Gurgaon      | Haryana         |
+|  199 | Xepon 28-29 R.K Industries Kapodra Surat   | Surat        | Gujarat         |
+|  200 | Arshia Fashions                           | Ghaziabad    | Uttar Pradesh   |
+|  201 | JBN Creation                              | Kolkata      | West Bengal     |
+|  202 | Utsav Fashion Pvt. Ltd                    | New Delhi    | Delhi           |
+|  203 | ARGORI                                    | Andul Road   | West Bengal     |
+|  204 | Kiari                                     | Noida        | Uttar Pradesh   |
+|  205 | Arangers Retail India Pvt Ltd             | Delhi        | Delhi           |
+|  206 | Vedant Fashions Limited.                  | Kolkata      | West Bengal     |
+|  207 | Muskan Fashion                            | Delhi        | Delhi           |
+|  208 | Puneet Apparels Pvt. Ltd.                 | Indore       | Madhya Pradesh  |
+|  209 | Vastraa Fusion Enterprises                | New Delhi    | Delhi           |
+|  210 | ASPRIYA FASHION PRIVATE LIMITED           | Jaipur       | Rajasthan       |
+|  211 | HK TEXFAB PRIVATE LIMITED                 | Ludhiana     | Punjab          |
+|  212 | Latest Chikan Garments                    | Lucknow      | Uttar Pradesh   |
+|  213 | Shri Ram Enterprises                      | Delhi        | Delhi           |
+|  214 | Aditya Global Inc                         | New Delhi    | Delhi           |
+|  215 | Daulat Ram Om Prakash                     | Delhi        | Delhi           |
+|  216 | Badoliya & Sons                           | New Delhi    | Delhi           |
+|  217 | FABINDIA LIMITED.                         | New Delhi    | Delhi           |
+|  218 | Reset Collection                          | Ghaziabad    | Uttar Pradesh   |
+|  219 | Kidashion Enterprises                     | Ghaziabad    | Uttar Pradesh   |
+|  220 | FABINDIA LIMITED.                         | New Delhi    | Delhi           |
+|  221 | Shree Varahi Export                       | Jaipur       | Rajasthan       |
+|  222 | GEE IMPEX                                 | Surat        | Gujarat         |
+|  223 | -                                         | Surat        | Gujarat         |
+|  224 | Ambraee Enterprises                       | Jaipur       | Rajasthan       |
+|  225 | -                                         | Zirakpur     | Punjab          |
+|  226 | Zenzior Brand Technology Private Limited  | Surat        | Gujarat         |
+|  227 | Nouvio Lifestyle Private Limited          | Jaipur       | Rajasthan       |
+|  228 | Bunaai white official pvt limited          | Jaipur       | Rajasthan       |
+|  229 | GoSriKi                                   | Surat        | Gujarat         |
+|  230 | Khushal K                                 | Jaipur       | Rajasthan       |
+|  231 | -                                         | Surat        | Gujarat         |
+|  232 | PANKAJ TEXTILES                           | Jaipur       | Rajasthan       |
+|  233 | Gopinath Textile                          | Surat        | Gujarat         |
+|  234 | Utsav Fashion Pvt. Ltd                    | New Delhi    | Delhi           |
+|  235 | Tirupati Creations                        | Jaipur       | Rajasthan       |
+|  236 | Harshana Carfts                           | Phagwara     | Punjab          |
+|  237 | -                                         | Surat        | Gujarat         |
+|  238 | IMROZ HOUSE                               | Jaipur       | Rajasthan       |
+|  239 | Patiala House                             | Surat        | Gujarat         |
+|  240 | SURASHAS                                  | Jaipur       | Rajasthan       |
+|  241 | GOURIWALA TEXTILES PRIVATE LIMITED        | Jaipur       | Rajasthan       |
+|  242 | ZIVORE APPAREL PRIVATE LIMITED            | Noida        | Uttar Pradesh   |
+|  243 | BLACK SCISSOR                             | Surat        | Gujarat         |
+|  244 | Kvsfab                                    | Surat        | Gujarat         |
+|  245 | Oequal Fashion                            | Surat        | Gujarat         |
+|  246 | -                                         | Jaipur       | Rajasthan       |
+|  247 | Vaniya Enterprise                         | Surat        | Gujarat         |
+|  248 | H S STUDIO LLP                            | Jaipur       | Rajasthan       |
+|  249 | DRISTI CREATION                           | Jaipur       | Rajasthan       |
+|  250 | Block T                                   | Surat        | Gujarat         |
+|  251 | -                                         | Surat        | Gujarat         |
+|  252 | -                                         | Jaipur       | Rajasthan       |
+|  253 | ZIVORE APPAREL PRIVATE LIMITED            | Noida        | Uttar Pradesh   |
+|  254 | Libas impex                               | Noida        | Uttar Pradesh   |
+|  255 | H & S STUDIO LLP                            | Jaipur       | Rajasthan       |
+|  256 | KALINI                                    | Surat        | Gujarat         |
+|  257 | KESHVI FASHION LLP                        | Surat        | Gujarat         |
+|  258 | BHARODIYA ENTERPRISES                     | Surat        | Gujarat         |
+|  259 | JAIPUR MAJESTIC CREATION                   | Jaipur       | Rajasthan       |
+|  260 | Stylum Mart Private Limited               | Jaipur       | Rajasthan       |
+|  261 | Deepam                                    | Jaipur       | Rajasthan       |
+|  262 | Threadbucket Studio LLP                   | Surat        | Gujarat         |
+|  263 | HP Fab Tex Pvt. Ltd.                      | Surat        | Gujarat         |
+|  264 | Threadbucket Studio LLP                   | Surat        | Gujarat         |
+|  265 | NYX APPARELS                              | Delhi        | Delhi           |
+|  266 | QOMN Apparels                             | Jaipur       | Rajasthan       |
+|  267 | Bhumi E Retail Pvt ltd                    | Jaipur       | Rajasthan       |
+|  268 | Aditya Birla Fashion & Retail Ltd         | Mumbai       | Maharashtra     |
+|  269 | Falcon Apparels                           | New Delhi    | Delhi           |
+|  270 | Jay bharat Overseas Pvt Ltd               | Surat        | Gujarat         |
+|  271 | Eternal Clothing Line                     | Surat        | Gujarat         |
+|  272 | Dheera fashion Lifestyle                  | Jaipur       | Rajasthan       |
+|  273 | Taraasha Creations Pvt. Ltd.              | New Delhi    | Delhi           |
+|  274 | Kavita Women Wear Private Limited         | Noida        | Uttar Pradesh   |
+|  275 | Ahalyaa711                               | Surat        | Gujarat         |
+|  276 | Thread bucket Studio LLP                  | Surat        | Gujarat         |
+|  277 | Dyuti Creations Pvt.Ltd.                  | Jaipur       | Rajasthan       |
+|  278 | DIVYANK FASHION                           | Jaipur       | Rajasthan       |
+|  279 | Aravalii Ecommerce India Private Limited  | Delhi        | Delhi           |
+|  280 | Mokksha Designs                           | Chennai      | Tamil Nadu      |
+|  281 | Kavita Women Wear Private Limited         | Noida        | Uttar Pradesh   |
+|  282 | Sunidhi Lifestyle                         | Gurgaon      | Haryana         |
+|  283 | Brand Studio Lifestyle Pvt Ltd            | Bangalore    | Karnataka       |
+|  284 | SHREE BALAJI FASHIONS                     | Mumbai       | Maharashtra     |
+|  285 | EGNK HOME & DESIGNS                       | Jaipur       | Rajasthan       |
+|  286 | V B Exports                               | Surat        | Gujarat         |
+|  287 | SOCH APPARELS PRIVATE LIMITED             | Bengaluru    | Karnataka       |
+|  288 | FERANOID                                  | Jaipur       | Rajasthan       |
+|  289 | Fable Label                               | Surat        | Gujarat         |
+|  290 | JanakDulari Creation                      | Jaipur       | Rajasthan       |
+|  291 | CANTABIL RETAIL INDIA LIMITED             | New Delhi    | Delhi           |
+|  292 | Jevi Prints                               | Mumbai       | Maharashtra     |
+|  293 | SXV STYLE                                 | Surat        | Gujarat         |
+|  294 | ROXY INTERNATIONAL                        | Jaipur       | Rajasthan       |
+|  295 | -                                         | Surat        | Gujarat         |
+|  296 | M/S JO & JEN ENTERPRISES                  | Jaipur       | Rajasthan       |
+|  297 | Keshubaba Ventures                        | Mumbai       | Maharashtra     |
+|  298 | -                                         | Surat        | Gujarat         |
+|  299 | Jaypee Spintex Pvt Ltd                    | Noida        | Uttar Pradesh   |
+|  300 | Swastik Corporation                       | Jaipur       | Rajasthan       |
+|  301 | -                                         | Mumbai       | Maharashtra     |
+|  302 | Saree Swarg                               | Bhiwandi     | Maharashtra     |
+|  303 | FERANOID                                  | Jaipur       | Rajasthan       |
+|  304 | Kavita women wear Pvt Ltd                 | Noida        | Uttar Pradesh   |
+|  305 | D W APPARELS                              | Surat        | Gujarat         |
+|  306 | B S Fashion                               | Jaipur       | Rajasthan       |
+|  307 | RKM INTERNATIONAL LLP                     | Jaipur       | Rajasthan       |
+|  308 | M.K.Tailoring House                       | Jaipur       | Rajasthan       |
+|  309 | Divyank Fashion Pvt.Ltd.                  | Jaipur       | Rajasthan       |
+|  310 | Cheshtaa Apparels India Pvt Ltd           | New Delhi    | Delhi           |
+|  311 | SOCH APPARELS PVT LTD                     | Bengaluru    | Karnataka       |
+|  312 | SkyLand Creation                          | Surat        | Gujarat         |
+|  313 | NETWORK CLOTHING COMPANY PRIVATE LIMITED  | Tirupur      | Tamil Nadu      |
+|  314 | Indicut Lifestyle LLP                     | Surat        | Gujarat         |
+|  315 | Studio Shringaar Private Limited          | Mumbai       | Maharashtra     |
+|  316 | Brand Baaja Bride LLP                     | Surat        | Gujarat         |
+|  317 | United Textile Mills Pvt Ltd              | Mumbai       | Maharashtra     |
+|  318 | Samhitas Apparel                          | Bengaluru    | Karnataka       |
+|  319 | Retail Boost                              | Surat        | Gujarat         |
+|  320 | SANSKRUTI EXPORTS                        | Jaipur       | Rajasthan       |
+|  321 | In Time Garments Private Limited           | Faridabad    | Haryana         |
+|  322 | Step by Step Creations                    | New Delhi    | Delhi           |
+|  323 | Patiala House                             | Surat        | Gujarat         |
+|  324 | Go Fashion (India) Limited                | Chennai      | Tamil Nadu      |
+|  325 | Amitto                                    | Delhi        | Delhi           |
+|  326 | Go Fashion India Private Limited          | Tiruppur     | Tamil Nadu      |
+|  327 | NETWORK CLOTHING COMPANY PRIVATE LIMITED  | Tirupur      | Tamil Nadu      |
+|  328 | Laado Creations                           | Delhi        | Delhi           |
+|  329 | Neel fab & fashion                        | Jaipur       | Rajasthan       |
+|  330 | Lifestyle Int Pvt Ltd                     | Bangalore    | Karnataka       |
+|  331 | KANAV APPARELS                            | Ludhiana     | Punjab          |
+|  332 | Go Fashion India Private Limited          | Chennai      | Tamil Nadu      |
+|  333 | Soch Apparels Pvt Limited                 | Bengaluru    | Karnataka       |
+|  334 | Go Fashion (India) Limited                | Chennai      | Tamil Nadu      |
+|  335 | Castle                                    | New Delhi    | Delhi           |
+|  336 | Go Fashion India Limited                  | Chennai      | Tamil Nadu      |
+|  337 | Shivay Creations                          | Delhi        | Delhi           |
+|  338 | Miaz lifestyle                            | New Delhi    | Delhi           |
+|  339 | Global eTree ServicesPvt. Ltd.           | New Delhi    | Delhi           |
+|  340 | Shine N Sober                           | New Delhi    | Delhi           |
+|  341 | Clora Creation                            | New Delhi    | Delhi           |
+|  342 | Trendmalls Industries Private Limited     | Surat        | Gujarat         |
+|  343 | LetsDressUp Fashion Private Limited       | Gurgaon      | Haryana         |
+|  344 | -                                         | Delhi        | Delhi           |
+|  345 | Go Fashion India Private Limited          | Chennai      | Tamil Nadu      |
+|  346 | -                                         | Jaipur       | Rajasthan       |
+|  347 | TAHVO DESIGNS AND PRODUCTIONS PRIVATE LIMITED | Gurgaon      | Haryana         |
+|  348 | Dhruv Global Ltd.                         | Faridabad    | Haryana         |
+|  349 | Goodwill Impex Limited                    | Jaipur       | Rajasthan       |
+|  350 | OTABU                                     | Surat        | Gujarat         |
+|  351 | Fablestreet Lifestyle Solutions Pvt Ltd   | Gurgaon      | Haryana         |
+|  352 | OTABU                                     | Surat        | Gujarat         |
+|  353 | CHERUB FASHION PRIVATE LIMITED            | Noida        | Uttar Pradesh   |
+|  354 | OTABU                                     | Surat        | Gujarat         |
+|  355 | The Rainbow Tribe                         | New Delhi    | Delhi           |
+|  356 | Excel Textile                             | Ghaziabad    | Uttar Pradesh   |
+|  357 | CHANDERKASH ENTERPRISES                   | Delhi        | Delhi           |
+|  358 | ADDYVERO                                  | Gurgaon      | Haryana         |
+|  359 | Stupa fashion                             | New Delhi    | Delhi           |
+|  360 | Aman Exports International                | Jaipur       | Rajasthan       |
+|  361 | Clora Creation                            | New Delhi    | Delhi           |
+|  362 | Popnetic Fashions                         | Noida        | Uttar Pradesh   |
+|  363 | -                                         | Mumbai       | Maharashtra     |
+|  364 | Radhey Rama Landmark Private Limited     | Jaipur       | Rajasthan       |
+|  365 | AMBRAEE                                   | Jaipur       | Rajasthan       |
+|  366 | DAYA EXPO                                 | Faridabad    | Haryana         |
+|  367 | Weave And Knits                           | Gurgaon      | Haryana         |
+|  368 | KRIDEV                                    | Mumbai       | Maharashtra     |
+|  369 | Parmar Enterprise                         | Surat        | Gujarat         |
+|  370 | Risingstars                               | Ghaziabad    | Uttar Pradesh   |
+|  371 | Mala Merchant                             | Ahmedabad    | Gujarat         |
+|  372 | KARTIK FASHION                            | Noida        | Uttar Pradesh   |
+|  373 | Brijal Lad                                | Surat        | Gujarat         |
+|  374 | Jamie infotech                            | Delhi        | Delhi           |
+|  375 | MONARK CREATION INDIA                     | New Delhi    | Delhi           |
+|  376 | Falcon Apparels                           | New Delhi    | Delhi           |
+|  377 | Galaxy Garments Pvt Ltd                   | Noida        | Uttar Pradesh   |
+|  378 | Broowl International                      | Delhi        | Delhi           |
+|  379 | P Inspiration.                            | Kolkata      | West Bengal     |
+|  380 | GENERATION                                | Delhi        | Delhi           |
+|  381 | Berrylush Designs Private Limited         | Noida        | Uttar Pradesh   |
+|  382 | Falcon Apparels                           | New Delhi    | Delhi           |
+|  383 | GG Apparels                               | Gurugram     | Haryana         |
+|  384 | Fablestreet Lifestyle Solutions Pvt Ltd   | Gurgaon      | Haryana         |
+|  385 | -                                         | Surat        | Gujarat         |
+|  386 | Cutiekins Private Limited                 | Delhi        | Delhi           |
+|  387 | JOVK DESIGN                               | Surat        | Gujarat         |
+|  388 | -                                         | Surat        | Gujarat         |
+|  389 | -                                         | Surat        | Gujarat         |
+|  390 | SWARR                                     | NOIDA        | UTTAR PRADESH   |
+|  391 | Bhama Designs Private Limited             | Delhi        | Delhi           |
+|  392 | FALCON APPARELS                           | Gurugram     | Haryana         |
+|  393 | Bhama Designs Private Limited             | -            | -               |
+|  394 | -                                         | -            | -               |
+|  395 | -                                         | SURAT        | Gujarat         |
+|  396 | LAXMI TRADING CORPORATION                 | Howrah       | West Bengal     |
+|  397 | AMIRTHA FASHION                           | Chennai      | Tamil Nadu      |
+|  398 | -                                         | Surat        | Gujarat         |
+|  399 | GORLYA                                    | Surat        | Gujarat         |
+|  400 | Pineapple Impex                           | Surat        | Gujarat         |
+|  401 | Odette e-retail private limited.          | Bangalore    | Karnataka       |
+|  402 | CHANSI TRENDZ                             | DUMBHAL      | GUJARAT         |
+|  403 | Chhabra Triple Five Fashions Pvt Ltd      | Delhi        | Delhi           |
+|  404 | Svx Sports                                | Noida        | Uttar Pradesh   |
+|  405 | Adamya Knitwears                          | ludhiana     | Punjab          |
+|  406 | Trade by us                               | Rithala      | Delhi           |
+|  407 | THE DESIGN CELLARS                        | NEW DELHI    | DELHI           |
+|  408 | Deepam                                    | Jaipur       | Rajasthan       |
+|  409 | Radnik Exports                            | NOIDA        | Uttar Pradesh   |
+|  410 | Excel Textile                             | Gurgaon      | Haryana         |
+|  411 | PREMIERE RETAIL TRADING PRIVATE LIMITED   | Delhi        | Delhi           |
+|  412 | WEDANI LIFESTYLE                          | SURAT        | GUJARAT         |
+|  413 | HARPA RETAIL PRIVATE LIMITED              | New Delhi    | Delhi           |
+|  414 | PURVAJA                                   | Surat        | Gujarat         |
+|  415 | MAYFFEI LIFESTYLE PRIVATE LIMITED         | GURGAON      | HARYANA         |
+|  416 | ANOKHI DESIGNER                           | Surat        | GUJARAT         |
+|  417 | VISHVAS INTERNATIONAL PVT LTD             | NOIDA        | UP              |
+|  418 | Manomay Creation                          | Jaipur       | Rajasthan       |
+|  419 | Pimu Collection                           | Sanganer     | Rajasthan       |
+|  420 | Stylum Mart Private Limited               | Jaipur       | Rajasthan       |
+|  421 | Draax Fashions                            | Noida        | Uttar Pradesh   |
+|  422 | Pink December Fashion Pvt Ltd             | JAIPUR       | Rajasthan       |
+|  423 | DBS Lifestyle India Private Limited       | Noida        | Uttar Pradesh   |
+|  424 | Dream Beauty Fashion/                     | Surat        | Gujarat         |
+|  425 | LUEUR VESTURES PVT LTD                    | GURUGRAM     | HARYANA         |
+|  426 | Prateek Apparels Pvt Ltd (Hubli)          | Hubli        | Karnataka       |
+|  427 | JC JUMMY COUTURE                          | DELHI        | DELHI           |
+|  428 | SAANII APPARELS PRIVATE LIMITED           | GURGAON      | HARYANA         |
+|  429 | Cutiekins Private Limited                 | New Delhi    | Delhi           |
+|  430 | COTLAND FASHION PVT. LTD.                | JAIPUR       | RAJASTHAN       |
+|  431 | Summit India                              | Noida        | Uttar Pradesh   |
+|  432 | SWARRD                                    | Noida        | UTTAR PRADESH   |
+|  433 | Kotty Lifestyle Pvt Ltd                   | Faridabad    | Haryana         |
+|  434 | USTAT TRADING LLP                         | Udhna        | Gujarat         |
+|  435 | Krislon Synthetics Private LTD.           | Bhiwandi     | Maharashtra     |
+|  436 | Hues Moda                                 | New Delhi    | Delhi           |
+|  437 | Beena Creation                            | New Delhi    | Delhi           |
+|  438 | Shiva International Apparels              | New Delhi    | Delhi           |
+|  439 | CHUNMUN STORES PVT LTD                    | New Delhi    | Delhi           |
+|  440 | Dream Beauty Fashion/                     | Surat        | Gujarat         |
+|  441 | UNAONE CREATIONS                           | GURGAON      | HARYANA         |
+|  442 | Vajra Ventures                            | Surat        | Gujarat         |
+|  443 | Dadadadeshwar family store llp            | bangalore    | Karnataka       |
+|  444 | HIMANSHI ENTERPRISES                      | SANGANER     | RAJASTHAN       |
+|  445 | -                                         | Sanganer     | Jaipur          |
+|  446 | Romina Retail Pvt. Ltd.                   | Jaipur       | Rajasthan       |
+|  447 | WEDANI LIFESTYLE                          | SURAT        | GUJARAT         |
+|  448 | RAJA FASHION                              | NEW DELHI    | DELHI           |
+|  449 | Kiara for her Clothing Private Limited    | New Delhi    | Delhi           |
+|  450 | Wakai Fashion                             | Banglore     | Karnatka        |
+|  451 | Ambaji Tex Fab                            | Surat        | Gujarat         |
+|  452 | M/S BK Garments                           | Noida        | UP              |
+|  453 | T International                           | Gurugram     | Haryana         |
+|  454 | Apex Apparels                             | Gurgaon      | Haryana         |
+|  455 | P Inspiration                             | Kolkata      | West Bengal     |
+|  456 | Winza Designer                            | Surat        | GJ              |
+|  457 | Winza Designer                            | Udhna        | Gujrat          |
+|  458 | Apex Appales                              | gurgaon      | Haryana         |
+|  459 | FABLE STREET LIFESTYLE SOLUTIONS PRIVATE LIMITED | Gurgaon      | Haryana         |
+|  460 | Jaiyam Industris LLP                      | Baddi        | Himachal Pradesh|
+|  461 | Aditya Birla Fashion and Retail Limited   | Bangalore    | Karnataka       |
+|  462 | Mayffei Lifestyle Private Limited         | Gurgaon      | Haryana         |
+|  463 | Bewakoof Brands Pvt Ltd                  | Bhiwandi     | Maharashtra     |
+|  464 | Deluxe Fabrics(I)Ltd.                    | Ludhiana     | Punjab          |
+|  465 | SANYOG INTERNATIONAL                      | Ludhiana     | Punjab          |
+|  466 | DOEL WORLDWIDE SUPPLIERS PRIVATE LIMITED  | Ludhiana     | Punjab          |
+|  467 | Kautam Knits                              | Tirupur      | Tamil Nadu      |
+|  468 | Bodyglove Apparel India                   | Tiruppur     | Tamil Nadu      |
+|  469 | Paragon Apparel Pvt. Ltd.                 | Noida        | IN              |
+|  470 | Carnation Creations Private Limited       | Coimbatore   | IN              |
+|  471 | Go Go International Pvt Ltd               | Bangalore    | IN              |
+|  472 | Letshandcraft                             | Mohali       | Punjab          |
+|  473 | Cultgear Private Limited                  | Bangalore    | Karnataka       |
+|  474 | MAITRI KNITWEAR                           | Ludhiana     | Punjab          |
+|  475 | SHIV SUNDARAM                             | Ludhiana     | PUNJAB          |
+|  476 | Sunrise Creations                          | Tirupur      | Tamil Nadu      |
+|  477 | -                                         | Tirupur      | Tamil Nadu      |
+|  478 | SUDITI INDUSTRIES LTD                     | Mumbai       | Maharashtra     |
+|  479 | Elcinco Inc                               | Tirupur      | Tamil Nadu      |
+|  480 | HANDA CLOTHING INC.                       | LUDHIANA     | PUNJAB          |
+|  481 | POPPYS APPARELS                           | Tirupur      | Tamilnadu       |
+|  482 | KAY VENTURES PRIVATE LIMITED              | Karur        | Tamilnadu       |
+|  483 | QUANTUM KNITS-3 (A UNIT OF KPR MILL LIMITED) | TIRUPPUR     | Tamil Nadu      |
+|  484 | Ashwaruthi Apparels                       | Tirupur      | Tamil Nadu      |
+|  485 | Aero Armour                               | Kolkata      | West Bengal     |
+|  486 | -                                         | Faridabad    | Haryana         |
+|  487 | Luckshmi Knits Pvt Ltd - FILMODE          | Coimbatore   | Tamil Nadu      |
+|  488 | Tedhi Medhi Family                        | Delhi        | Delhi           |
+|  489 | Av universal traderz                      | delhi        | Delhi           |
+|  490 | -                                         | vasai-virar  | Maharashtra     |
+|  491 | -                                         | noida        | -               |
+|  492 | My Swag Hub                               | Faridabad    | Haryana         |
+|  493 | PENTAGON CLOTHING COMPANY                 | Tirupur      | Tamilnadu       |
+|  494 | PROSOURCE FASHION AND LIFESTYLES PVT LTD  | Gurgaon      | Haryana         |
+|  495 | -                                         | B.Komarapalayam| -               |
+|  496 | TANPRI TRENDSETTERS PRIVATE LIMITED        | Noida        | UTTAR PRADESH   |
+|  497 | TECHNO SPORTSWEAR PVT LTD                 | Tirupur      | Tamil Nadu      |
+|  498 | ARMOUR TEXTILES                           | TIRUPUR      | Tamil Nadu      |
+|  499 | Fairway Fashions                          | Tirupur      | Tamil Nadu      |
+|  500 | COLOR CAPITAL                             | Indore       | Madhya Pradesh  |
+|  501 | SHAKTHI KNITTING PRIVATE LIMITED          | TIRUPUR      | Tamil Nadu      |
+|  502 | -                                         | mayapuri     | Delhi           |
+|  503 | ARVIND LIMITED (JEANS DIVISION)           | Bangalore    | IN              |
+|  504 | WONDERBLUES APPARELS PVT LTD              | Bengaluru    | Karnataka       |
+|  505 | Aadvi fashion                             | delhi        | Delhi           |
+|  506 | Bespoke Clothing                          | Bengaluru    | Karnataka       |
+|  507 | Shell Apparels Pvt Ltd.                  | Bangalore    | IN              |
+|  508 | Kotty Lifestyle Pvt Ltd                   | Faridabad    | Haryana         |
+|  509 | RND APPARELS INDIA PRIVATE LIMITED         | Noida        | Uttar pradesh   |
+|  510 | 1DAYJEANS                                 | Shahdara     | Delhi           |
+|  511 | Divine Creation                           | New Delhi    | Delhi           |
+|  512 | Perfect Outlet                            | Shahdara     | Delhi           |
+|  513 | AAA TEXTILES PRIVATE LIMITED              | Theni        | Tamilnadu       |
+|  514 | AQUA                                      | Mumbai       | Maharashtra     |
+|  515 | Aditya Birla Fashion & Retail Ltd         | Mumbai       | Maharashtra     |
+|  516 | Taurus Clothing Co. Pvt. Ltd.             | Noida        | Uttar Pradesh   |
+|  517 | -                                         | newdelhi     | Delhi           |
+|  518 | Ambaji Texfab                             | Surat        | Gujarat         |
+|  519 | RAJLAXMI HOME PRODUCTS PRIVATE LIMITED    | Mumbai       | Maharashtra     |
+|  520 | Leemboodi Fashion                         | Surat        | GUJARAT         |
+|  521 | VIBE VISION                               | Surat        | Gujarat         |
+|  522 | RANGDEEP APPARELS                         | Jaipur       | RAJASTHAN       |
+|  523 | Gostyle                                   | Surat        | Gujarat         |
+|  524 | Deebaco                                   | Noida        | U.P             |
+|  525 | Jalan House                               | Surat        | Gujarat         |
+|  526 | Trade by us                               | Rithala      | Delhi           |
+|  527 | NAINVISH LIFESTYLE                        | UDHNA        | GUJARAT         |
+|  528 | Wrap Fashion Pvt Ltd                      | Noida        | U.P.            |
+|  529 | Keev Lifestyles Private Limited            | Surat        | Gujarat         |
+|  530 | -                                         | Lajpat Nagar | Delhi           |
+|  531 | K.P.FASHION                               | SACHIN       | SURAT           |
+|  532 | Creative Designs                          | Jaipur       | Rajasthan       |
+|  533 | FAB GALAXY PRIVATE LIMITED                | SURAT        | GUJARAT         |
+|  534 | JMD TEXTILES                              | HOWRAH       | WEST BENGAL     |
+|  535 | MANOJAVA                                  | Sanganer     | Jaipur          |
+|  536 | Veer creation                             | indore       | Madhya Pradesh  |
+|  537 | Gayatri Apparel                           | Jaipur       | Rajasthan       |
+|  538 | DEVSHRI CLOTHING PRIVATE LIMITED          | Indore       | Madhya Pradesh  |
+|  539 | Mannat Fashionables                       | Delhi        | Delhi           |
+|  540 | INCITYSTYLE                               | Surat        | Gujarat         |
+|  541 | Brand Baaja Bride LLP                     | Surat        | Gujarat         |
+|  542 | Opus Apparels LLP                         | Surat        | Gujarat         |
+|  543 | INDDUSINC EXIM PVT. LTD.                  | Surat        | Gujarat         |
+|  544 | Tradyl Private Limited                    | Bengaluru    | Karnataka       |
+|  545 | Apex Apparels                             | Gurgaon      | Haryana         |
+|  546 | ATCHAYA GAREMENTS                         | Tirupur      | Tamilnadu       |
+|  547 | RANGDEEP APPARELS                         | Jaipur       | Rajasthan       |
+|  548 | Periwinkle Designs                        | Noida        | UP              |
+|  549 | Eternal Clothing Line                     | Surat        | Gujarat         |
+|  550 | KAAJAL BY VIDHI                            | Mumbai       | Maharashtra     |
+|  551 | Sera Group                                | Gurgaon           | Haryana           |
+|  552 | CAPDAZZ LIFESTYLE LLP                     | Surat             | Gujarat           |
+|  553 | Mint Fashion Pvt Ltd                      | Greater Noida     | Uttar Pradesh     |
+|  554 | Apex Apparels                             | Delhi             | Delhi             |
+|  555 | Apex Apparels                             | Delhi             | Delhi             |
+|  556 | Aditya Birla Fashion and Retail           | Bangalore         | Karnataka         |
+|  557 | Aditya Birla Fashion & Retail Ltd.        | Mumbai            | Maharashtra       |
+|  558 | Home Candy                                | Panipat           | Haryana           |
+|  559 | Meraki Clothing Pvt Ltd.                  | Bengaluru         | Karnataka         |
+|  560 | Lavian LLP                                | Bangalore         | Karnataka         |
+|  561 | Googo Gaaga Online Services Pvt Ltd       | New Delhi         | Delhi             |
+|  562 | Durakart Marketing Private Limited        | Kolkata           | West Bengal       |
+|  563 | Vardhman Wool Store                       | Panipat           | Haryana           |
+|  564 | Vardhman Wool Store                       | Panipat           | Haryana           |
+|  565 | Bodyglove Apparel India                   | Tiruppur          | Tamil Nadu        |
+|  566 | Durakart Marketing Private Limited        | Kolkata           | West Bengal       |
+|  567 | Combine Sales Pvt Ltd                     | Indore            | Madhya Pradesh    |
+|  568 | Radhamani Textiles Pvt. Ltd.              | Bengaluru         | Karnataka         |
+|  569 | Delta Clothing                            | MUMBAI            | MAHARASHTRA       |
+|  570 | Terva Corporation                         | Ankleshwar        | GUJARAT           |
+|  571 | Dutt Creation                             | Surat             | Gujarat           |
+|  572 | TOPMAN INTERNATIONAL LTD                  | Mumbai            | Maharashtra       |
+|  573 | BHAVI GARMENTS                            | Ahmedabad         | Gujarat           |
+|  574 | shvd                                      | surat             | Gujarat           |
+|  575 | Sri Manchammadevi Enterprises             | Bangalore         | Karnataka         |
+|  576 | FASHION GRAB INDIA PVT LTD                | Mumbai            | Maharashtra       |
+|  577 | SANJAY VINUBHAI DHAMELIYA                 | Surat             | Gujarat           |
+|  578 | Terva Corporation                         | Ankleshwar        | GUJARAT           |
+|  579 | M/S. Shreeraj Apparels                    | Godhra            | Gujarat           |
+|  580 | Shreeji Enterprise                        | Surat             | Gujarat           |
+|  581 | ARVIND LIFESTYLE BRANDS LIMITED           | BANGALORE         | KARNATAKA         |
+|  582 | Shreeji Enterprise                        | Surat             | Gujarat           |
+|  583 | Eternalia Creative & Merchandising Pvt Ltd | Mumbai            | Maharashtra       |
+|  584 | CANTABIL RETAIL INDIA LIMITED             | New Delhi         | Delhi             |
+|  585 | Asiatic sourcing (OPC) pvt Ltd          | Bangalore         | Karnataka         |
+|  586 | Messianic Clothing Pvt. Ltd.              | Noida             | Uttar Pradesh     |
+|  587 | CrayonFlakes Design Pvt Ltd.              | Noida             | UP                |
+|  588 | LIL PITAARA                               | Matunga           | Maharashtra       |
+|  589 | Lifestyle Int Pvt Ltd                     | Bangalore         | Karnataka         |
+|  590 | Dutt Creation                             | Surat             | Gujarat           |
+|  591 | Meeshak Clothing LLP                      | Pune              | Maharashtra       |
+|  592 | Universal creations                       | Tirupur           | Tamil Nadu        |
+|  593 | Lavian LLP                                | Bangalore         | Karnataka         |
+|  594 | HOME CANDY - SJIT                         | Panipat           | HARYANA           |
+|  595 | Silhouette Fashions                       | Tirupur           | Tamil Nadu        |
+|  596 | Carnation Creations Private Limited       | Coimbatore        | IN                |
+|  597 | QUANTUM KNITS                             | Coimbatore        | Tamil Nadu        |
+|  598 | Miniklub Retail Pvt Ltd                   | Bangalore         | Karnataka         |
+|  599 | ARDEUR FASHIONS                           | Tirupur           | Tamil Nadu        |
+|  600 | Miniklub Retail Pvt Ltd                   | Bangalore         | Karnataka         |
+|  601 | Imperial Online Services Pvt Ltd          | Hyderabad         | Telangana         |
+|  602 | Kotemoda Lifestyle Pvt Ltd.               | Bangalore         | Karnataka         |
+|  603 | Googo Gaaga Online Services Pvt Ltd       | New Delhi         | Delhi             |
+|  604 | Fashion Dream                             | Udhna             | Surat             |
+|  605 | -                                         | Indore            | Madhya Pradesh    |
+|  606 | BAESD                                     | Delhi             | Delhi             |
+|  607 | OM CASUAL                                 | DELHI             | DELHI             |
+|  608 | BAESD                                     | Surat             | Gujarat           |
+|  609 | BUGANDBEES                                | Noida             | U.P               |
+|  610 | MOOZOO FASHIONS PVT. LTD.                 | Howrah            | West Bengal       |
+|  611 | MAGADH TECHNO SERVICES PRIVATE LIMITED    | NEW DELHI         | DELHI             |
